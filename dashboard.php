@@ -68,7 +68,7 @@
                                             <div class="col-12">
                                                 <div class="text-primary p-3">
                                                     <h5 class="text-primary">Welcome!</h5>
-                                                    <p>EIS Dashboard</p>
+                                                    <p>EIS Dashboard pogi</p>
                                                 </div>
                                             </div>
                                         </div>
